@@ -3,6 +3,45 @@ html {
   text-align: center;
 }
 
-#hero {
+.hero {
   background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.hero p {
+  font-size: 18px
+}
+
+.process h2,
+h3 {
+  font-weight: bold;
+}
+
+.process h2 {
+  font-size: 32px
+}
+
+.process h3 {
+  font-size: 23px;
+}
+
+.process p {
+  font-size: 14px;
+}
+
+.hero h2 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }

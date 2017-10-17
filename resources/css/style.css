@@ -30,7 +30,8 @@ h3 {
   font-size: 23px;
 }
 
-.process p {
+.process p,
+.about p {
   font-size: 14px;
 }
 
